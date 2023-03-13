@@ -35,13 +35,6 @@ function MediaNews() {
           </h6>
         </div>
       </div>
-      {/* <div className=" text-white absolute">
-        <div className="relative flex flex-col items-center">
-          <BsChevronDown className="text-3xl text-[#333]" />
-          <BsChevronDown className="text-2xl text-[#7f7f7f] " />
-          <BsChevronDown className="text-xl " />
-        </div>
-      </div> */}
     </div>
   );
 }
